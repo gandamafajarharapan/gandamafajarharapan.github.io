@@ -684,4 +684,18 @@ header .follow a:hover{
         padding-right: 0;
     }
 
+  
+    /* Footer */
+   footer .Ecommerce {
+   font-family: "Bungee Spice", cursive;
+  }
+
+    footer a:hover {
+   color: #0433ff !important;
+  }
+
+  footer .sosmed a:hover {
+   border: 1px solid #0433ff;
+ }
+
 }
