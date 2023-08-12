@@ -23,7 +23,7 @@ html{
 }
 
 body{
-    background:#fff2d5;
+    background :#e2eea5;
      padding-left: 30rem;
 }
 
@@ -35,7 +35,7 @@ section{
 .heading{
     font-size: 4rem;
     padding-bottom: 1rem;
-    color:#ffffff;
+    color:#2551b6;
     text-transform: uppercase;
 }
 
@@ -55,14 +55,14 @@ section{
 }
 
 .btn:hover{
-    background:#111;
+    background:#2127de;
     letter-spacing: .2rem;
 }
 
 header{
     position: fixed;
     top:0; left:0; bottom:0;
-    background:#222;
+    background:#198556;
     display: flex;
     align-items: center;
     justify-content: space-between;
